@@ -1,0 +1,6 @@
+deploy:
+  compose: docker-compose.yml
+
+dev:
+  next:
+    command: sh
