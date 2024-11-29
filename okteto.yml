@@ -3,4 +3,4 @@ deploy:
 
 dev:
   next:
-    command: sh
+    command: npm run dev
